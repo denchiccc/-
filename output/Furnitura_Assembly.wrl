@@ -1,0 +1,17 @@
+#VRML V2.0 utf8
+
+# Produced by Bazis 8.0 exporter, Version 8, Revision 0,1
+# Date: Fri Dec 10 15:12:20 2010
+
+DEF Model Transform {
+  translation 0 0 0
+  rotation 0 1 0 0
+  children[
+    DEF Gabaritnaya_ramka Transform {
+      translation 0 0 0
+      rotation 0 1 0 0
+      children[
+      ]
+      }
+  ]
+  }
